@@ -12,5 +12,4 @@ As expected, the result is
 \]
 confirming that \((J,\theta)\) form a canonical pair.
 
-
 - [action_angle_transformation.nb](../projects/code/action_angle_transformation.nb)
