@@ -1,3 +1,14 @@
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['\\(','\\)'], ['$', '$']],
+    displayMath: [['\\[','\\]'], ['$$','$$']]
+  }
+};
+</script>
+
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+
 This code constructs the action–angle variables \((J,\theta)\) for the one-dimensional
 harmonic oscillator and verifies that the transformation
 \[
