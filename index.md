@@ -1,4 +1,4 @@
-## Yusuf Berk Akçay
+## About Myself
 
 Undergraduate student interested in Theoretical and Mathematical Physics
 
