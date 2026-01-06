@@ -4,4 +4,4 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 ## Computational Projects (Mathematica)
 
-- [Action–Angle Variables for the Harmonic Oscillator](projects/action_angle_transformation.nb)
+- [Action–Angle Variables for the Harmonic Oscillator](projects/Action-Angle Transformation.md)
