@@ -1,1 +1,5 @@
 title: "Yusuf Berk AKÇAY  "
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
