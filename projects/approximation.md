@@ -1,4 +1,5 @@
-In this code, we define a recurrence relation for a sequence of polynomials. One can show that this sequence converge to the absolute value function |x|, so this sequence can be used to approximate |x|.
-We checked this fact for first few polynomials. 
+In this code, we define a recurrence relation for a sequence of polynomials. One can show that this sequence converges to the absolute value function |x|, so it can be used to approximate ∣x∣. We check this fact for the first few polynomials.
+
+This is, in fact, a consequence of a more general result known as the Weierstrass Approximation Theorem.
 
  - [approximation_absolute_value.nb](../projects/code/approximation_absolute_value.nb)
