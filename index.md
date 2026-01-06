@@ -8,7 +8,7 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
 
-- [Properties of the Riemann Tensor](projects/curvature_calculation.md)
+- [Properties of the Riemann Tensor](projects/tensoridentities.md)
 
 - [Curvature Calculations](projects/curvature_calculation.md)
 
