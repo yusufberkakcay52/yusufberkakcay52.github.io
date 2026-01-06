@@ -9,8 +9,8 @@ window.MathJax = {
 
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
-This code constructs the action–angle variables \((J,\theta)\) for the one-dimensional
-harmonic oscillator and verifies that the transformation
+This code constructs the action–angle variables \((J,\theta)\) for the
+one-dimensional harmonic oscillator and verifies that the transformation
 \[
 (q,p) \mapsto (J,\theta)
 \]
@@ -22,5 +22,6 @@ As expected, the result is
 \{\theta, J\} = 1,
 \]
 confirming that \((J,\theta)\) form a canonical pair.
+
 
 - [action_angle_transformation.nb](../projects/code/action_angle_transformation.nb)
