@@ -6,6 +6,6 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
 
-- [Curvature Calculations](projects/Curvature_Calculation.md)
+- [Curvature Calculations](projects/curvature_calculation.md)
 
 - [A Derivation for the Boussinesq Equation](projects/Boussinesq.md)
