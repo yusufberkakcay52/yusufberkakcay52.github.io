@@ -1,3 +1,3 @@
 This code evaluates Christoffel symbols, Riemann Tensor, Ricci tensor and Ricci scalar for a given metric. Specifically, we consider the metric of the 2 dimensional hyperbolic space and showed it has constant negative curvature.
 
- - [curvature_calculation.nb](..code/curvature_calculation.nb)
+ - [curvature_calculation.nb](..projects/code/curvature_calculation.nb)
