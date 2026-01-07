@@ -1,3 +1,5 @@
+# Mean Field Ising Model and Phase Transitions
+
 The Ising model is a theoretical model that describes the phenomenon of ferromagnetism within the framework of statistical mechanics. One of the methods used to solve the Ising model is the so-called mean-field approximation. This approximation leads to the self-consistency equation
 
 m = tanh(βJzm).
