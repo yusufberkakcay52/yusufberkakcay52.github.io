@@ -36,4 +36,6 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [KdV equation](projects/kdv_derivation.md)
 
+- [Solitons](projects/soliton.md)
+
 - [Hirota Bilinear Form](projects/hirota.md)
