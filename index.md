@@ -18,6 +18,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Expanding Universe](projects/FLRW.md)
 
+- [Killing Equation](projects/killingeq.md)
+
 - [A Derivation for the Boussinesq Equation](projects/Boussinesq.md)
 
 - [KdV equation](projects/kdv_derivation.md)
