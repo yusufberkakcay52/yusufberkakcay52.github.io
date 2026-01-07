@@ -1,3 +1,5 @@
+# Hirota Bilinear Form
+
 In this code, we examine some properties of the Hirota derivative. First, we find an explicit formula for D_x^n{f, g}. After that, we show that the KdV equation
 
 u_xxx + 6 u u_x + u_y = 0
