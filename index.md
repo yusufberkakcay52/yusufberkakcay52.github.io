@@ -6,6 +6,8 @@ I enjoy working on computational projects and using symbolic computation tools, 
 
 This page contains a collection of my computational projects, where I study various topics in physics and mathematics and document my results.
 
+You can also access my presentations in this page.
+
 ## Computational Projects
 
 ### Basics
@@ -53,3 +55,7 @@ This page contains a collection of my computational projects, where I study vari
 - [Solitons](projects/soliton.md)
 
 - [Hirota Bilinear Form](projects/hirota.md)
+
+## Presentations/Reports
+
+- [Solvable Structures](projects/solvable_structures.md)
