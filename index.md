@@ -12,6 +12,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [legendre.md](projects/legendre.md)
 
+- [Mean Field Ising Model and Phase Transitions](projects/mean_field_ising.md)
+
 - [Canonical Transformations and Generating Functions](projects/generatingfunction.md)
 
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
