@@ -4,6 +4,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 ## Computational Projects
 
+### Basics
+
 - [Fundamentals of Mathematica](projects/fundamentals.md)
 
 - [Approximation of the Absolute Value Function](projects/approximation.md)
@@ -12,13 +14,19 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Legendre Transformation](projects/legendre.md)
 
+### Statistical Mechanics
+
 - [Mean Field Ising Model and Phase Transitions](projects/mean_field_ising.md)
+
+### Classical Mechanics
 
 - [Poisson and Jacobi Brackets](projects/brackets.md)
 
 - [Canonical Transformations and Generating Functions](projects/generatingfunction.md)
 
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
+
+### Differential Geometry and General Relativity
 
 - [Differential Geometry of Surfaces](projects/fundamental_forms.md)
 
@@ -31,6 +39,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 - [Expanding Universe](projects/FLRW.md)
 
 - [Killing Equation](projects/killingeq.md)
+
+### Dynamical Systems and PDE's
 
 - [A Derivation for the Boussinesq Equation](projects/Boussinesq.md)
 
