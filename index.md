@@ -4,6 +4,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 ## Computational Projects
 
+- [Fundamentals of Mathematica](projects/fundamentals.md)
+
 - [Approximation of the Absolute Value Function](projects/approximation.md)
 
 - [Lagrange Resolvents](projects/resolvent.md)
