@@ -10,7 +10,7 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Lagrange Resolvents](projects/resolvent.md)
 
-- [legendre.md](projects/legendre.md)
+- [Legendre Transformation](projects/legendre.md)
 
 - [Mean Field Ising Model and Phase Transitions](projects/mean_field_ising.md)
 
