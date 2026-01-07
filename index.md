@@ -2,7 +2,7 @@
 
 Undergraduate student interested in Theoretical and Mathematical Physics
 
-## Computational Projects (Mathematica)
+## Computational Projects
 
 - [Approximation of the Absolute Value Function](projects/approximation.md)
 
@@ -13,5 +13,7 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 - [Properties of the Riemann Tensor](projects/tensoridentities.md)
 
 - [Curvature Calculations](projects/curvature_calculation.md)
+
+- [Expanding Universe](projects/FLRW.md)
 
 - [A Derivation for the Boussinesq Equation](projects/Boussinesq.md)
