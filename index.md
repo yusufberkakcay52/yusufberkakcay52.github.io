@@ -20,4 +20,6 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [A Derivation for the Boussinesq Equation](projects/Boussinesq.md)
 
+- [KdV equation](projects/kdv_derivation.md)
+
 - [Hirota Bilinear Form](projects/hirota.md)
