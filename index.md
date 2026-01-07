@@ -1,6 +1,10 @@
 ## About Myself
 
-Undergraduate student interested in Theoretical and Mathematical Physics
+Hi! I am an undergraduate student interested in Theoretical and Mathematical Physics. My main interests include classical and quantum mechanics, statistical mechanics and differential geometry. I am especially interested in understanding the mathematical structures behind physical theories.
+
+I enjoy working on computational projects and using symbolic computation tools, particularly Mathematica, to understand physical models and mathematical problems. Through these projects, I aim to strengthen both my theoretical understanding and my computational skills.
+
+This page contains a collection of my computational projects, where I study various topics in physics and mathematics and document my results.
 
 ## Computational Projects
 
