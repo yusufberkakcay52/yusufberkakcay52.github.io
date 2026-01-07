@@ -6,6 +6,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Approximation of the Absolute Value Function](projects/approximation.md)
 
+- [Canonical Transformations and Generating Functions](projects/generatingfunction.md)
+
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
 
 - [Differential Geometry of Surfaces](projects/fundamental_forms.md)
