@@ -1,3 +1,5 @@
+# Action–Angle Variables for the Harmonic Oscillator
+
 This code constructs the action–angle variables (J, θ) for the
 one-dimensional harmonic oscillator and verifies that the transformation
 (q, p) → (J, θ) is canonical.
