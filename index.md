@@ -14,6 +14,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Mean Field Ising Model and Phase Transitions](projects/mean_field_ising.md)
 
+- [Poisson and Jacobi Brackets](projects/brackets.md)
+
 - [Canonical Transformations and Generating Functions](projects/generatingfunction.md)
 
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
