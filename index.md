@@ -8,6 +8,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Lagrange Resolvents](projects/resolvent.md)
 
+- [legendre.md]
+
 - [Canonical Transformations and Generating Functions](projects/generatingfunction.md)
 
 - [Action–Angle Variables for the Harmonic Oscillator](projects/action-angle-transformation.md)
