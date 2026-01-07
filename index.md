@@ -8,7 +8,7 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Lagrange Resolvents](projects/resolvent.md)
 
-- [legendre.md]
+- [legendre.md](projects/legendre.md)
 
 - [Canonical Transformations and Generating Functions](projects/generatingfunction.md)
 
