@@ -26,6 +26,8 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 
 - [Curvature Calculations](projects/curvature_calculation.md)
 
+- [Schwarzschild Metric](projects/schwar.md)
+
 - [Expanding Universe](projects/FLRW.md)
 
 - [Killing Equation](projects/killingeq.md)
