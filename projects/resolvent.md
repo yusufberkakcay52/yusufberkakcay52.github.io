@@ -4,4 +4,4 @@ In this code, we apply this method to the cubic equation
 
 x³ + (3/2)x² − (11/2)x − 3 = 0
 
- - [lagrange_resolvent.nb](../projects/code/lagrange_resolvents.nb)
+ - [lagrange_resolvent.nb](../projects/code/lagrange_resolvent.nb)
