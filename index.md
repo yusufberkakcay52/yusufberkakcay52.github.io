@@ -19,3 +19,5 @@ Undergraduate student interested in Theoretical and Mathematical Physics
 - [Expanding Universe](projects/FLRW.md)
 
 - [A Derivation for the Boussinesq Equation](projects/Boussinesq.md)
+
+- [Hirota Bilinear Form](projects/hirota.md)
