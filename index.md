@@ -8,6 +8,10 @@ This page contains a collection of my computational projects, where I study vari
 
 You can also access my presentations in this page.
 
+E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
+
+CV -> [YUSUF_BERK_AKCAY_CURRİCULUM_VITAE](../projects/code/YUSUF_BERK_AKCAY_CURRİCULUM_VITAE.pdf)
+
 ## Computational Projects
 
 ### Basics
