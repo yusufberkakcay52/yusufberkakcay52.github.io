@@ -58,4 +58,6 @@ You can also access my presentations in this page.
 
 ## Presentations/Reports
 
+- [Dunkl-Pauli Oscillator](projects/dunkl.md)
+
 - [Solvable Structures](projects/solvable_structures.md)
