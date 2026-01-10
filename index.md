@@ -10,7 +10,7 @@ You can also access my presentations in this page.
 
 E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
 
-[CV](../projects/code/YUSUF_BERK_AKCAY_CURRİCULUM_VITAE.pdf)
+[CV](../projects/code/YUSUF_BERK_AKCAY_CURRİCULUM_VITAE .pdf)
 
 ## Computational Projects
 
