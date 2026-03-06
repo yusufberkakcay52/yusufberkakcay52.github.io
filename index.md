@@ -65,3 +65,5 @@ E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
 - [Dunkl-Pauli Oscillator](projects/dunkl.md)
 
 - [Solvable Structures](projects/solvable_structures.md)
+
+- [Bi-Hamiltonian Systems](yavuznutku.md)
