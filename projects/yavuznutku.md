@@ -2,4 +2,6 @@ I gave a talk at the 'Yavuz Nutku Anısına Simetri ve Geometri Çalıştayı (W
  
 [Yavuz_Nutku_Sunum_Yusuf_Berk_AKÇAY.pdf](https://github.com/user-attachments/files/25805559/Yavuz_Nutku_Sunum_Yusuf_Berk_AKCAY.pdf)
 
+▶ Watch the talk: [https://youtube.com/....](https://www.youtube.com/watch?v=zfULAsysGUI)
+
 
