@@ -67,3 +67,5 @@ E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
 - [Solvable Structures](projects/solvable_structures.md)
 
 - [Bi-Hamiltonian Systems](projects/yavuznutku.md)
+
+- [Geometric Quantization](projects/quantization.md)
