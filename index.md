@@ -70,4 +70,4 @@ E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
 
 - [Geometric Quantization](projects/quantization.md)
 
-- [N=4 Super Yang-Mills](projects/N=4.md)
+- [N=4 Super Yang-Mills](projects/sym.md)
