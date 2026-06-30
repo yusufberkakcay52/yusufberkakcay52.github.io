@@ -1,12 +1,12 @@
 ## About Myself
 
-Hi! I am an undergraduate student interested in Theoretical and Mathematical Physics. My main interests include classical and quantum mechanics, statistical mechanics and differential geometry. I am especially interested in understanding the mathematical structures behind physical theories.
+I am a third-year undergraduate student double-majoring in **Mathematics and Physics** at **Boğaziçi University**, Istanbul.
 
-I enjoy working on computational projects and using symbolic computation tools, particularly Mathematica, to understand physical models and mathematical problems. Through these projects, I aim to strengthen both my theoretical understanding and my computational skills.
+My primary academic interests lie at the intersection of Theoretical and Mathematical Physics. I am particularly focused on understanding the deep mathematical structures underpinning physical theories, with specific interests in differential geometric formulations of mechanics, statistical mechanics, and dynamical systems.
 
-This page contains a collection of my computational projects, where I study various topics in physics and mathematics and document my results.
+Alongside my theoretical studies, I enjoy incorporating computational explorations into my learning process. Using symbolic computation tools, primarily Mathematica, I write short scripts to visualize physical models and verify mathematical concepts. These exercises serve as a practical way to solidify my understanding of abstract theoretical frameworks.
 
-You can also access my presentations in this page.
+Feel free to reach out to me for academic discussions or potential collaborations.
 
 E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
 
