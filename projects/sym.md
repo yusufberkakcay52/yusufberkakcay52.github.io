@@ -5,3 +5,5 @@ Here, you can find my presentation and notes on N=4 Super Yang–Mills theory, p
  - [Super-Yang-Mills_Presentation.pdf](../projects/code/DRP_Presentation.pdf)
 
  - [Super-Yang-Mills_Report.pdf](../projects/code/DRP_2026_Yusuf_Berk_AKÇAY.pdf)
+
+ - ▶ Watch the talk: [https://youtube.com/....](https://youtu.be/0VgENUpNZBc?si=NICDndVYh2aPIS3k)
