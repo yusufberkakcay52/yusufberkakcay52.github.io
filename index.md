@@ -73,3 +73,5 @@ E-Mail -> yusuf.akcay1@std.bogazici.edu.tr
 - [N=4 Super Yang-Mills](projects/sym.md)
 
 - [Summer Internship](projects/internship.md)
+
+- [Skeleta in Complex Projective Line](projects/urdım.md)
